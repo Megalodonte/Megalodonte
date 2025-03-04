@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm a neograduated Master's student in Data Science
-- I’m currently working on the publication of a paper about my master thesis project in the context of Reinforcement Learning applied to prosthesis control;
+- I’m currently working on the publication of a paper about my master thesis project in the context of Reinforcement Learning applied to (simulated) prosthesis control;
 - I have a bachelor degree in Physics, and a master degree in Data Science, both at the University of Naples Federico II;
 - I speak Italian (native), English (fluent, C2 level), French (overall beginner, intermediate reading level), Dutch (really basic reading skills);
 - Fun fact: 42.
